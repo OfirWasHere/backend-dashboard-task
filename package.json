@@ -1,0 +1,17 @@
+{
+  "dependencies": {
+    "cors": "^2.8.5",
+    "express": "^5.1.0"
+  },
+  "name": "backend-dashboard-task",
+  "description": "",
+  "version": "1.0.0",
+  "main": "app.ts",
+  "scripts": {
+    "start": "nodemon --exec ts-node src/app.ts",
+    "build": "tsc"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
